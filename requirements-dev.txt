@@ -1,0 +1,4 @@
+# Only needed to record the demo video (demo/record_demo.py)
+-r requirements.txt
+playwright==1.64.0
+imageio-ffmpeg==0.6.0
